@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "692369509547",
+    "project_id": "unity-bibration",
+    "storage_bucket": "unity-bibration.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692369509547:android:dc9567e6a77c1e05f2fbee",
+        "android_client_info": {
+          "package_name": "com.test.unity_bibration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692369509547-356c3htdg2kd4rldkhin838p33dbdotv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe_J3qhR2pTIofe6n6Jvy_NQuMYERa9Kc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692369509547-356c3htdg2kd4rldkhin838p33dbdotv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
